@@ -3,6 +3,10 @@ class Personnage {
 		
 	}
 	public void Deplacer(Direction direction){
+
+	}
+
+	public void Courir(int distance){
 		
 	}
 }
